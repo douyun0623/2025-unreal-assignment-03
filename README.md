@@ -85,7 +85,7 @@
 
 1. Unreal Engine **5.5**를 설치합니다.
 2. 저장소를 clone합니다.
-3. 루트의 `.uproject` 파일을 엽니다.
+3. 루트의 `RifleCombatPractice.uproject` 파일을 엽니다.
 4. `Content/_TEST2/StarterMap.umap`을 엽니다.
 5. Blueprint를 Compile한 뒤 Play In Editor로 실행합니다.
 
@@ -106,7 +106,7 @@
 
 ```text
 .
-├─ *.uproject
+├─ RifleCombatPractice.uproject
 ├─ Config/
 ├─ Content/
 │  ├─ _TEST2/               # 캐릭터·무기·좀비·UFO·맵
@@ -114,4 +114,3 @@
 │  └─ StarterContent/       # Epic 제공 콘텐츠
 └─ README.md
 ```
-
