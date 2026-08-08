@@ -89,7 +89,7 @@
 4. `Content/_TEST2/StarterMap.umap`을 엽니다.
 5. Blueprint를 Compile한 뒤 Play In Editor로 실행합니다.
 
-에디터 시작 맵은 `StarterMap`이지만 기본 게임 맵은 OpenWorld Template으로 설정되어 있어, 패키징 전 `GameDefaultMap` 수정이 필요합니다.
+기본 에디터·게임 시작 맵은 `StarterMap`으로 설정되어 있습니다.
 
 ## 개발 상태
 
